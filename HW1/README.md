@@ -1,4 +1,4 @@
-## Homework 1
+## Homework 1
 This problem set is due Friday (9/9/2022) at midnight. Please turn in your work by uploading to Canvas. If you have questions, please post them on the course forum, rather than emailing the course staff. This will allow other students with the same question to see the response and any ensuing discussion. The first goal of this problem set is to review the concept that complex operations involve distributed action in the brain and to think about how best we can understand the process of cortical computaiton. The second goal is to review molecular neurobiology.
 
 Organization of the brain - short answer (a few sentences, 5 pts)
